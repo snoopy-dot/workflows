@@ -2,11 +2,14 @@
   "name": "workflows",
   "version": "0.0.1",
   "description": "eine Beispiel Projekt Anwendung",
-
   "repository": {
     "type": "git",
     "url": "?.git"
   },
   "author": "Beate Marshall",
-  
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-coffee": "^3.0.3",
+    "gulp-util": "^3.0.8"
+  }
 }
